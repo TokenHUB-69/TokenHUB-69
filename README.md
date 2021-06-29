@@ -50,18 +50,17 @@ This means that Slippage to operate in PancakeSwap shall be ≥ 5%.
 Token allocation
 $HUB Total Supply is 5,000,000 Tokens and they will be distributed as follows:
 
--65% Of the tokens will be sold out in a public presale. Obtained funds will be seeded as liquidity
+-65% Of the tokens will be sold out in the public Initial Liquidity Offerings (ILO). Obtained funds will be seeded as liquidity
 
--3% Airdrop — locked
+-3% Vault  Rewards - locked
 
--3% Marketing Strategies — locked
+-3% Marketing Strategies - locked
 
--3% Team — locked
+-3% Team - locked
 
 -26% Burnt before launch
 
 Meet our core team:
-
 
 John Terry — Co-Founder & Chief Executive Officer
 
@@ -76,7 +75,6 @@ Thomas Ray — Chief Technical Officer
 LinkedIn: https://www.linkedin.com/in/thomas-ray-3766ba10/
 
 Find us on:
-
 
 Our webpage: https://tokenhub.finance
 
